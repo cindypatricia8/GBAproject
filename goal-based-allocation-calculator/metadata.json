@@ -1,0 +1,5 @@
+{
+  "name": "Goal-Based Allocation Calculator",
+  "description": "A professional financial planning tool for allocating assets across three time horizons (H1, H2, H3) based on client goals, income, and expenses.",
+  "requestFramePermissions": []
+}
